@@ -183,14 +183,14 @@ public class LiteModHeroMod implements PostRenderListener, PreJoinGameListener, 
 		}
 		
 		//⦕❤⦖
-		String uklRegex = "§d\\[§r§bDev§r§d\\]§r§([0-9])unknownloner";
+		/*String uklRegex = "§d\\[§r§bDev§r§d\\]§r§([0-9])unknownloner";
 		pat = Pattern.compile(uklRegex);
 		matcher = pat.matcher(message);
 		if (matcher.find()) {
 			String match = matcher.group(1);
 			String msg = matcher.replaceFirst("§d⦕§bPegasus§d⦖§r§" + match + "unknownloner");
 			newMessage.set(new ChatComponentText(msg));
-		}
+		}*/
 		
 		return true;
 	}
