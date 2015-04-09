@@ -13,3 +13,4 @@ https://github.com/unknownloner/HeroModServ
 3:31 AM <unknownloner> and then to launch the server run 'node heromod_serv.js'
 3:31 AM <unknownloner> in a screen of course, or however you wanna do it
 3:31 AM <unknownloner> then you're good to go
+'
