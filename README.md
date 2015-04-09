@@ -1,8 +1,14 @@
 This is the client mod for HeroMod
 ===
-Make this not crap :D
+This is the client mod for HeroMod
+To clarify how to set this up, you need to clone HeroMod into your MCP eclipse folder. You'll need LiteLoader set up too, Mumfrey has excellent instructions for how to do that (link below).
 
-https://github.com/unknownloner/HeroModServ
+http://www.modcoderpack.com/website/releases - MCP
+
+https://www.assembla.com/wiki/show/liteloader/Quick_Start_Guide_-_for_advanced_users - LiteLoader
+
+https://github.com/unknownloner/HeroModServ - Server component
+
 
 3:30 AM <unknownloner> anyways Kainzo use this https://github.com/unknownloner/HeroModServ to get rid of the dependance of heromod on my server
 3:30 AM <unknownloner> I'm sure you're smart enough to figure out how to change the domain in the HeroMod source
