@@ -278,7 +278,7 @@ public class LiteModHeroMod implements PostRenderListener, PreJoinGameListener, 
 					minecraft.thePlayer.sendChatMessage(s);
 				}
 				try {
-					partyFrame.netHandler.connect("hmod.ukl.me", 4070);
+					partyFrame.netHandler.connect("herocraftonline.com", 4070);
 				} catch (IOException e) {
 					e.printStackTrace();
 				}
